@@ -6,3 +6,4 @@ mysqlclient
 alembic
 passlib[bcrypt]
 pyjwt
+python-jose
